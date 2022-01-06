@@ -6,3 +6,5 @@ Ethereum (ETH) is a cryptocurrency . Users are able to generate ETH through the 
 
 
 Used ARIMA, and Facebook Prophet to predict the future prices.
+
+DataSet taken from : yfinance
